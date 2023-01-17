@@ -33,12 +33,4 @@ Please replace "icon-active.png" with the path of your icon file and "router_set
 Please make sure you have changed the IP address and the login credentials before creating the exe.
 
 Please note that the script is using chrome driver, you need to have chrome installed on your machine.
-
-## Autostart on login
-In order to run the script automatically on Windows startup, please follow these steps:
-1. Press the Windows key + R to open the Run dialog box.
-2. Type `shell:startup` and press Enter.
-3. This will open the Startup folder in File Explorer.
-4. Add a shortcut to the exe file "rou
-
 Please note that this script is specific to the Huawei 2368 4G router and will need to be updated according to the IP panel and specific requirements of your router.
